@@ -127,17 +127,17 @@
  🌱 Currently Learning
 
 HTML + CSS
-     ↓
+     |
 JavaScript
-     ↓
+     |
 Bootstrap
-     ↓
+     |
 React.js
-     ↓
+     |
 REST APIs
-     ↓
+     |
 Backend Development
-     ↓
+     |
 Databases
-     ↓
+     |
 🚀 Full Stack Development
