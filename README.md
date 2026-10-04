@@ -1,122 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Heet%20Kanani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Creative%20Designer%20%7C%20BCA%20Student&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hi, I'm Heet Kanani
 
-<br>
+### 💻 BCA Student | 🌐 Frontend Developer | 🎨 Creative Designer
 
-<a href="https://github.com/PatelHeet009">
-<img src="https://img.shields.io/badge/GitHub-PatelHeet009-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Focus-Frontend%20Development-2563eb?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Goal-Full%20Stack-06b6d4?style=for-the-badge&logo=stackblitz&logoColor=white"/>
-</a>
+<p>
+  <b>Building modern • responsive • user-friendly digital experiences</b>
+</p>
 
-<br><br>
+<p>
+  I enjoy turning creative ideas into websites and applications that are
+  <br>
+  clean, interactive, responsive, and easy to use.
+</p>
 
-### 👋 Hey, I'm Heet
-
-**BCA Student • Frontend Developer • Creative Designer**
-
-> I turn ideas into clean, responsive, and user-friendly digital experiences.
-
-<br>
-
-💻 Building for the Web   •   🎨 Designing Interfaces   •   🚀 Learning Every Day
+<p>
+  <a href="https://github.com/PatelHeet009">
+    <img src="https://img.shields.io/badge/GitHub-PatelHeet009-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-0ea5e9?style=for-the-badge" alt="Frontend Development">
+  <img src="https://img.shields.io/badge/Goal-Full%20Stack%20Developer-22c55e?style=for-the-badge" alt="Full Stack Developer">
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-```javascript
-const heet = {
-    name: "Heet Kanani",
-    education: "BCA Student at Darshan University",
-    role: ["Frontend Developer", "Creative Designer"],
-    
-    interests: [
-        "Web Development",
-        "UI/UX Design",
-        "Creative Web Design"
-    ],
+🎓 **BCA Student at Darshan University**
 
-    currentlyLearning: [
-        "Advanced Web Development",
-        "React.js",
-        "REST APIs",
-        "Backend Development"
-    ],
+🌱 Currently learning **Advanced Web Development**
 
-    technologies: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-        "React",
-        "Java",
-        "C",
-        "MySQL"
-    ],
+💡 Interested in **Frontend Development & UI/UX Design**
 
-    goal: "Become a Professional Full Stack Developer"
-};
-```
+🎨 I enjoy creating **clean, modern, and creative interfaces**
+
+🛠️ Working with **HTML, CSS, JavaScript, Bootstrap, Java, C, and MySQL**
+
+📚 Always improving my **coding, design, and problem-solving skills**
+
+🎯 Goal: Become a **Professional Full Stack Developer**
 
 ---
 
-## ⚡ Tech Stack
+## 🧰 Tech Stack
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </p>
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
 ---
 
-## 🚀 What I Build
+## 💻 What I Like Building
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🌐 Web Development
 
-✔ Responsive Websites
-✔ Landing Pages
-✔ Portfolio Websites
-✔ Interactive Web Pages
-✔ Frontend Applications
-✔ Student Projects
+- Responsive Websites
+- Landing Pages
+- Portfolio Websites
+- Interactive Web Pages
+- Frontend Applications
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎨 UI / UX
+### 🎨 Design & UI
 
-✔ Modern Interfaces
-✔ Clean Layouts
-✔ Responsive Designs
-✔ User-Friendly Experiences
-✔ Creative Components
-✔ Mobile-Friendly Websites
+- Modern UI Design
+- Clean Interfaces
+- Responsive Layouts
+- User-Friendly Experiences
+- Creative Web Designs
 
 </td>
 </tr>
@@ -126,57 +114,21 @@ const heet = {
 
 ## 📂 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| 🚀 Project | 📝 Description | 🛠️ Technologies |
+|---|---|---|
+| 🌐 **My Static Website** | Responsive static website project | HTML, CSS |
+| 📄 **Heet Kanani Resume** | Personal resume and portfolio project | HTML, CSS |
+| 🗃️ **DBMS Project** | Database management system project | MySQL |
+| ☕ **OOPJ Project** | Object-oriented programming project | Java |
+| 💻 **C Programming** | Programming practice and academic projects | C |
 
-### 🌐 Static Website
-
-A responsive website created using modern HTML and CSS techniques.
-
-**Tech:** `HTML` `CSS`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📄 Personal Resume
-
-A personal resume and portfolio website showcasing skills and projects.
-
-**Tech:** `HTML` `CSS`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🗃️ DBMS Project
-
-A database-focused academic project designed to manage and organize data efficiently.
-
-**Tech:** `MySQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☕ OOPJ Project
-
-An object-oriented programming project developed as part of academic learning.
-
-**Tech:** `Java`
-
-</td>
-</tr>
-</table>
+> 🚧 More projects are coming soon as I continue learning and building.
 
 ---
 
 ## 🌱 Currently Learning
 
-```text
+text
 HTML + CSS
      ↓
 JavaScript
@@ -192,70 +144,3 @@ Backend Development
 Databases
      ↓
 🚀 Full Stack Development
-```
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PatelHeet009&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelHeet009&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=PatelHeet009&theme=tokyonight&hide_border=true&border_radius=12" width="70%"/>
-
-</div>
-
----
-
-## 🎯 My Goals
-
-* 🚀 Become a professional Full Stack Developer
-* ⚛️ Build stronger React.js skills
-* 🔌 Learn and work with REST APIs
-* 🗄️ Improve database knowledge
-* 🎨 Create better UI/UX experiences
-* 📦 Build real-world projects
-* 🌱 Keep learning new technologies
-
----
-
-## 💡 Developer Mindset
-
-> **Learn → Build → Break → Fix → Improve → Repeat.**
-
-I believe the best way to learn development is by building real projects, solving problems, and continuously improving.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/PatelHeet009">
-<img src="https://img.shields.io/badge/GitHub-PatelHeet009-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-**💻 Code with curiosity.
-🎨 Design with creativity.
-🚀 Build with purpose.**
-
-<br>
-
-⭐ If you find my projects useful, consider giving them a star!
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
-
-</div>
