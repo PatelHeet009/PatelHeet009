@@ -104,7 +104,7 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Technologies | 🔗 Repository |
 | :--- | :--- | :--- | :---: |
-| 🌐 **My Static Website** | Responsive static website layout and design | HTML, CSS | [View Code](https://github.com) |
+| 🌐 **My Static Website** | Responsive static website layout and design | HTML, CSS | [View Code](https://github.com/PatelHeet009/My-Static-Website) |
 | 📄 **Heet Kanani Resume** | Personal digital resume and portfolio project | HTML, CSS | [View Code](https://github.com) |
 | 🗃️ **DBMS Project** | Database management system queries and schema | MySQL | [View Code](https://github.com) |
 | ☕ **OOPJ Project** | Object-oriented programming concepts in Java | Java | *Coming Soon* |
