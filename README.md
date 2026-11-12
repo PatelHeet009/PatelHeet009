@@ -104,11 +104,12 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Technologies | 🔗 Repository |
 | :--- | :--- | :--- | :---: |
-| 🌐 **My Static Website** | Responsive static website layout and design | HTML, CSS | [View Code](https://github.com/PatelHeet009/My-Static-Website) |
-| 📄 **Heet Kanani Resume** | Personal digital resume and portfolio project | HTML, CSS | [View Code](https://github.com) |
-| 🗃️ **DBMS Project** | Database management system queries and schema | MySQL | [View Code](https://github.com) |
-| ☕ **OOPJ Project** | Object-oriented programming concepts in Java | Java | *Coming Soon* |
-| 💻 **C Programming** | Core logic building and academic lab programs | C | [View Code](https://github.com) |
+| 📄 **Heet Kanani Resume** | Personal digital resume and portfolio project | HTML, CSS | [View](https://github.com/PatelHeet009/Heet_Kanani_Resume) |
+| 🌐 **My Static Website** | Responsive static website layout and design | HTML, CSS | [View](https://github.com/PatelHeet009/My-Static-Website) |
+| ☕ **OOPJ Project** | Object-oriented programming concepts in Java | Java |  [View](https://github.com/PatelHeet009/BANK_PROJECT) |
+| ☕ **FEWT Project** | Object-oriented programming concepts in Java | Java |  [View](https://github.com/PatelHeet009/FEWT_PROJECT) |
+| ☕ **SIH26 Project** | Object-oriented programming concepts in Java | Java |  [View](https://github.com/PatelHeet009/PATIENT_CASE_TAKING) |
+| 🗃️ **DBMS Project** | Database management system queries and schema | MySQL | *Coming Soon*|
 
 > 🚧 *More full-stack projects are coming soon as I continue learning and building!*
 
