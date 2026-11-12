@@ -107,8 +107,8 @@
 | 📄 **Heet Kanani Resume** | Personal digital resume and portfolio project | - | [View](https://github.com/PatelHeet009/Heet_Kanani_Resume/blob/main/HEET%20KANANI%20RES..pdf)|
 | 🌐 **My Static Website** | Responsive static website layout and design | HTML, CSS | [View](https://github.com/PatelHeet009/My-Static-Website) |
 | ☕ **OOPJ Project** | Object-oriented programming concepts in Java | Java |  [View](https://github.com/PatelHeet009/BANK_PROJECT) |
-| ☕ **FEWT Project** | Object-oriented programming concepts in Java | JS |  [View](https://github.com/PatelHeet009/FEWT_PROJECT) |
-| ☕ **SIH26 Project** | Object-oriented programming concepts in Java | JS, TS |  [View](https://github.com/PatelHeet009/PATIENT_CASE_TAKING) |
+| ☕ **FEWT Project** | Front-End Web Technology concepts in JS | JS |  [View](https://github.com/PatelHeet009/FEWT_PROJECT) |
+| ☕ **SIH26 Project** | hackathon | JS, TS |  [View](https://github.com/PatelHeet009/PATIENT_CASE_TAKING) |
 | 🗃️ **DBMS Project** | Database management system queries and schema | MySQL | *Coming Soon*|
 
 > 🚧 *More full-stack projects are coming soon as I continue learning and building!*
@@ -121,7 +121,7 @@
          
   ✅ JavaScript & Bootstrap
          
-  🔄 React.js (Currently Learning)
+  🔄 React.js 
                   
   ⏳ REST APIs & Backend Development
                 
