@@ -104,7 +104,7 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Technologies | 🔗 Repository |
 | :--- | :--- | :--- | :---: |
-| 📄 **Heet Kanani Resume** | Personal digital resume and portfolio project | - | [View](https://github.com/PatelHeet009/Heet_Kanani_Resume) |
+| 📄 **Heet Kanani Resume** | Personal digital resume and portfolio project | - | [View](https://github.com/PatelHeet009/Heet_Kanani_Resume/blob/main/HEET%20KANANI%20RES..pdf)|
 | 🌐 **My Static Website** | Responsive static website layout and design | HTML, CSS | [View](https://github.com/PatelHeet009/My-Static-Website) |
 | ☕ **OOPJ Project** | Object-oriented programming concepts in Java | Java |  [View](https://github.com/PatelHeet009/BANK_PROJECT) |
 | ☕ **FEWT Project** | Object-oriented programming concepts in Java | Java |  [View](https://github.com/PatelHeet009/FEWT_PROJECT) |
